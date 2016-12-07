@@ -28,7 +28,7 @@
 
 ## Wikipedia Datasets
 
->>> Wikipedia също споделят данни, които може да се използватe свободно. 
+Wikipedia също споделят данни, които може да се използватe свободно. 
 
 [Линк към тях](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 
