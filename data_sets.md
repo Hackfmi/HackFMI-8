@@ -26,6 +26,12 @@
 
 [Вижте всички datasets](https://github.com/caesar0301/awesome-public-datasets)
 
+## Wikipedia Datasets
+
+>>> Wikipedia също споделят данни, които може да се използватe свободно. 
+
+[Линк към тях](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
+
 ## Datasets Subreddit
 
 Reddit е една от най-големите платформи за новини, събираща на едно място съдържание, възможност за оценяване на новините и дискусия. 
