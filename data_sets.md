@@ -68,3 +68,7 @@ Pokemon започва като японска игра с карти, а дне
 ---
 [Повече за условията и детайлите за хакатона](http://hackfmi.com/). 
 
+## Datasets from Perpetto
+
+[Perpetto](https://www.perpetto.com/)подготвиха сървър с e-commerce данни специално за всички участници. [Повече за dataset-те вижте тук.](https://github.com/Perpetto/hack4data_setup)
+
