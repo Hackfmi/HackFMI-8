@@ -7,7 +7,6 @@ Total hours of presenting: 1.9
 ## Group 1
 
 * Algosquad
-* 2b|!2b
 * Placeholder
 * Pests
 * counter productive unit
@@ -23,7 +22,7 @@ Total hours of presenting: 1.9
 * Линейно Сортиране
 * #RoboLove
 * Д3В Machines
-* OK, Hacker
+* 2b|!2b
 * Kappa
 * Племето
 * Не знам
